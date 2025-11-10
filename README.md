@@ -9,13 +9,13 @@
 :globe_with_meridians:  [Personal Website](https://tommairs.github.io/)
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
- [in/tommairs](https://www.linkedin.com/in/tommairs/)
+ == [in/tommairs](https://www.linkedin.com/in/tommairs/)
 
 ![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white) 
- [@kumotom.bsky.social](https://bsky.app/profile/kumotom.bsky.social)
+ == [@kumotom.bsky.social](https://bsky.app/profile/kumotom.bsky.social)
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
- [tom.mairs](https://www.instagram.com/tom.mairs/)
+ ==  [tom.mairs](https://www.instagram.com/tom.mairs/)
 
 
 <!--
