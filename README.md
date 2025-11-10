@@ -1,18 +1,16 @@
-## Tom Mairs :shipit:
+## Tom Mairs :robot: :shipit:
 
 :mag_right: Currently heavily focussed on the [KumoMTA](https://github.com/KumoCorp/kumomta) project
 
- * I also write handy tools for automation for my own use, but people seem to like them. :keyboard: 
+ * I also write handy tools for automation for my own use, but people seem to like them.
  * In my spare time (lol) I play with robots and stuff
 
 ### Other places to find me
-:globe_with_meridians:  [Personal Website](https://tommairs.github.io/)
+:globe_with_meridians:  [Personal Website](https://tommairs.github.io/) 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommairs/)
-
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/kumotom.bsky.social)
-
-[[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tom.mairs/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tom.mairs/)
 
 <!--
 **tommairs/tommairs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
