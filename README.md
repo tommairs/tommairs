@@ -1,12 +1,11 @@
-## Tom Mairs :robot: :shipit:
+## Tom Mairs :shipit:
 
 :mag_right: Currently heavily focussed on the [KumoMTA](https://github.com/KumoCorp/kumomta) project
 
-:keyboard: I write handy tools for automation 
+ * I also write handy tools for automation for my own use, but people seem to like them. :keyboard: 
+ * In my spare time (lol) I play with robots and stuff
 
-:robot: Play with robots and stuff
-
-# Other places to find me
+### Other places to find me
 :globe_with_meridians:  [Personal Website](https://tommairs.github.io/)
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
