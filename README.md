@@ -1,4 +1,4 @@
-## Tom Mairs :robot: :shipit: :canada:
+## Tom Mairs :robot: :shipit: :canada: 🇳🇿
 
 :mag_right: Currently heavily focussed on the [KumoMTA](https://github.com/KumoCorp/kumomta) project
 
